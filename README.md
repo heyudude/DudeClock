@@ -1,7 +1,7 @@
-# Claudio
-Claudio is a wake up alarm based on ESP32 by Espressif Systems and programmed with Arduino IDE
+# DudeClock
+DudeClock is based upon Claudio is a wake up alarm based on ESP32 by Espressif Systems and programmed with Arduino IDE
 
-![Claudio Main Screen](https://raw.githubusercontent.com/pangodream/Claudio/master/hardware/CLAUDIO_MAIN_SCREEN.jpg)
+![DudeClock Main Screen](https://raw.githubusercontent.com/pangodream/Claudio/master/hardware/CLAUDIO_MAIN_SCREEN.jpg)
 
 Folders:
 
